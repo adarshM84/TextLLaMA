@@ -32,13 +32,23 @@ TextLLaMA uses an open-source language model supported by **Ollama**, ensuring h
 
 ## 📸 **Screenshots**
 
-Add screenshots of the extension in action here:  
+Here is the modified version with added emojis:
 
-![Screenshot 1](path/to/screenshot1.png)  
-_Description of the screenshot_  
+- **Select text and action** ✍️  
+  ![image1](https://github.com/user-attachments/assets/285f6e66-1abe-425d-acb1-4564195ddac7)
 
-![Screenshot 2](path/to/screenshot2.png)  
-_Description of the screenshot_  
+- **Translate your response** 🌍🔄  
+  ![image2](https://github.com/user-attachments/assets/7cbdca37-f7e7-4cbb-a2c7-e27a83d00b40)
+
+- **Select theme and make configuration changes** 🎨⚙️  
+  ![image3](https://github.com/user-attachments/assets/821629d9-256b-4c2f-a6c7-23e0c74f35e3)
+
+- **Interact with PDF with more features** 📄💡  
+  ![image4](https://github.com/user-attachments/assets/54e35ed7-ba55-4d52-86a9-99472375b1b4)
+
+- **Compose an email with a fingertip** ✉️👍  
+  ![image5](https://github.com/user-attachments/assets/7c6e3cc8-b267-49db-aef8-4f438c716e76)
+
 
 ---
 
