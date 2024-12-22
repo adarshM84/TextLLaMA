@@ -45,6 +45,6 @@ _Description of the screenshot_
 ## 📞 **Contact**
 For any inquiries or to connect, feel free to reach out:  
 
-📧 **Email**: [adarsh812003@gmail.com](mailto:adarshmishra812003@gmail.com)  
+📧 **Email**: [adarshmishra812003@gmail.com](mailto:adarshmishra812003@gmail.com)  
 🔗 **LinkedIn**: [Adarsh Mishra](https://in.linkedin.com/in/adarsh-mishra-469811205)  
 
