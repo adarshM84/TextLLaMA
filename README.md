@@ -7,6 +7,7 @@
 🤖 **Generate** automated replies to emails effortlessly.  
 🌍 **Translate** words into multiple languages to enhance your global communication.  
 
+Chrome Extention Download Link : <a href="https://chromewebstore.google.com/detail/textllama/phlhmokcogmcanhjhojccoockgkebiji?authuser=0&hl=en-GB" target="_blank">TextLLaMA</a>
 ---
 
 ## 🔥 **Features**
