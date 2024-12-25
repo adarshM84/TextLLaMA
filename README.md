@@ -1,5 +1,7 @@
 # 🌟 TextLLaMA 🚀
 
+Chrome Extention Download Link : <a href="https://chromewebstore.google.com/detail/textllama/phlhmokcogmcanhjhojccoockgkebiji?authuser=0&hl=en-GB" target="_blank">TextLLaMA</a>
+
 **TextLLaMA** is your ultimate companion for simplifying communication. This extension is designed to:  
 
 ✨ **Explain** content in a simple and easy-to-understand way.  
@@ -7,7 +9,6 @@
 🤖 **Generate** automated replies to emails effortlessly.  
 🌍 **Translate** words into multiple languages to enhance your global communication.  
 
-Chrome Extention Download Link : <a href="https://chromewebstore.google.com/detail/textllama/phlhmokcogmcanhjhojccoockgkebiji?authuser=0&hl=en-GB" target="_blank">TextLLaMA</a>
 ---
 
 ## 🔥 **Features**
