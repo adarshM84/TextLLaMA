@@ -46,7 +46,7 @@ Here is the modified version with added emojis:
   ![image1](https://github.com/user-attachments/assets/285f6e66-1abe-425d-acb1-4564195ddac7)
 
 - **Translate your response** 🌍🔄  
-  ![image2](https://github.com/user-attachments/assets/7cbdca37-f7e7-4cbb-a2c7-e27a83d00b40)
+  <img width="1373" height="743" alt="img1" src="https://github.com/user-attachments/assets/5457717d-8b4a-4177-9a77-dac319c74d9d" />
 
 - **Select theme and make configuration changes** 🎨⚙️  
   ![image3](https://github.com/user-attachments/assets/821629d9-256b-4c2f-a6c7-23e0c74f35e3)
